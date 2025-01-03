@@ -1,0 +1,6 @@
+@Lumin.Api_HostAddress = http://localhost:5098
+
+GET {{Lumin.Api_HostAddress}}/api/Manifest/manifest.json
+Accept: application/json
+
+###
